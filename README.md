@@ -1,6 +1,8 @@
 # Bookstore Management
 ## Intro to Computer Science II: Project 1
 ## Coding Language: Java
+This project was completed in an intro to computer science course in 2022.
+
 The Bookstore Management System is a Java project that simulates the operations of a bookstore. It allows users to manage and purchase books, CDs, and DVDs and provides options for registering as a member, viewing the cart, and exiting the system. This project utilizes ArrayLists, object manipulation, complex methods, switch loops, and user input to create a functional bookstore management system.
 The Bookstore Management System is designed to help manage a bookstore's inventory and provide customers with a convenient way to make purchases. It consists of the following main components:
 
